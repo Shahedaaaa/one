@@ -540,7 +540,7 @@
                 </div>
 
                 <div class="header-actions" role="group" aria-label="Header actions">
-                    <a class="icon-btn" title="Account" href="#"><em class="far fa-user"></em></a>
+                    <a class="icon-btn" title="account" href="#"><em class="far fa-user"></em></a>
                     <a class="icon-btn" title="Wishlist" href="#"><em class="far fa-heart"></em></a>
                     <a class="cart" href="#" id="cartBtn" title="View cart" aria-label="Cart">
                         <em class="fas fa-shopping-cart"></em>
