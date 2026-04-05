@@ -684,7 +684,7 @@
                 <h3 id="news-title">Stay in the loop</h3>
                 <p>Subscribe to get exclusive offers & new arrivals</p>
                 <form id="newsletterForm" style="display:flex;justify-content:center;gap:8px;flex-wrap:wrap;" onsubmit="return false;">
-                    <emnput id="newsletterEmail" type="email" placeholder="Enter your email" aria-label="Email address" required>
+                    <emnput id="newsletterEmail" type="email" placeholder="Please enter your email" aria-label="Email address" required>
                     <button class="btn btn-primary" id="subscribeBtn">Subscribe</button>
                 </form>
                 <div id="newsletterMsg" style="margin-top:10px;font-size:14px;display:none"></div>
